@@ -28,3 +28,6 @@ If you want to learn more about the new features in iOS 13, [I have the perfect 
 This project and accompanying YouTube video is provided to help you learn and experiment – you can use it however you want, with or without credit, commercially or noncommercially, without asking me.
 
 If you have questions, [please ask on Twitter](https://twitter.com/twostraws).
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-11-25 at 09 56 34](https://user-images.githubusercontent.com/12591229/143323070-a944d9a5-d6ba-415e-b222-50e7aaf29278.png)
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-11-25 at 09 56 37](https://user-images.githubusercontent.com/12591229/143323081-895859bf-8f8f-4c5d-8ff0-57fbcdb30b3f.png)
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-11-25 at 09 56 44](https://user-images.githubusercontent.com/12591229/143323085-26e055cd-d19c-4578-9a44-ac55e4e32614.png)
